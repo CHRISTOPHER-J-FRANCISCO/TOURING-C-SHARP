@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TOURING-C-SHARP.props" />
+</Project>
